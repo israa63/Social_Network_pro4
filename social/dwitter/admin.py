@@ -1,9 +1,10 @@
 from django.contrib import admin
 from django.contrib.auth.models import User, Group
-from .models import Profile
+from .models import Dweet, Profile
 
 
 #admin.site.register(Profile)
+admin.site.register(Dweet)
 
 
 class ProfileInline(admin.StackedInline):
