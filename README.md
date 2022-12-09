@@ -1,9 +1,4 @@
 # Social_Network_pro4
-Django needs two templates for sending password reset links:
-1. registration/password_reset_form.html to display the form used to request a password
-reset email.
-2. registration/password_reset_done.html to show a confirmation that a password reset
-email was sent.
 
 Deep Dive
 With connections, have to follow these assumptions:
