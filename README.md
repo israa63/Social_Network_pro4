@@ -1,5 +1,6 @@
 # Social_Network_pro4
-
+* In this project built a Social network with Django, which can showcase in portfolio. Will focus with Django models, and forms
+* Users will be able to discover and follow other users and read the content of the profiles **they follow and also they will have unfollow option
 Deep Dive
 With connections, have to follow these assumptions:
 * Your users will be able to either follow or not follow another user.
